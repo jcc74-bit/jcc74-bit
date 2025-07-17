@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ## 😃 About Me:
-- 🔭 I'm a rising senior at **Francis Lewis High School** intrested in **BME , aerospace and CS**
+- 🔭 I'm a rising senior at **Francis Lewis High School** intrested in **BME , Aerospace, MechE and CS**
 - 🌱 I’m always learning and building my knowledge about something **stem related**
 - 👯 I’m looking to collaborate on **Projects in Machine Learning, Data Science, anything cs or engineeering related**
 - 👨‍💻 All of my school projects are available on github
