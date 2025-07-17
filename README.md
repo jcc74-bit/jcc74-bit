@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there, im just starting out!
 
 <!--
 **jcc74-bit/jcc74-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
